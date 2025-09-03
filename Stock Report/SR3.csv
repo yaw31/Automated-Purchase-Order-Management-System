@@ -1,0 +1,15 @@
+Report ID: SR3
+Report Type: Stock Report
+Report Owner: I001
+Report Date: 2025-06-05
+
+Item ID,Item Name,Supplier ID,Quantity,Price,Last Update,Status
+ITEM001,Apple,SUP001,100,0.0,2025-06-05,Normal
+ITEM002,Orange,SUP002,372,0.0,2025-06-05,Normal
+ITEM003,Banana,SUP004,279,0.0,2025-06-05,Normal
+ITEM004,Tomato,SUP006,10,0.0,2025-06-05,Low-Stock
+ITEM005,Cabbage,SUP007,17,0.0,2025-06-05,Normal
+ITEM006,Eggs,SUP008,5,0.0,2025-06-05,Low-Stock
+ITEM007,Chicken,SUP009,5,0.0,2025-06-05,Low-Stock
+ITEM008,Spinach,SUP010,8,0.0,2025-06-05,Low-Stock
+ITEM009,Strawberry,SUP0012,3,0.0,2025-06-05,Low-Stock

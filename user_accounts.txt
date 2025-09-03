@@ -1,0 +1,5 @@
+S001,Password1!,Sales Manager
+P001,Password2@,Purchase Manager
+A001,Password3#,Administrator
+I001,Password4$,Inventory Manager
+F001,Password5!,Finance Manager

@@ -1,0 +1,11 @@
+Report ID: SR1
+Report Type: Stock Report
+Report Owner: I001
+Report Date: 2025-05-30
+
+Item ID,Item Name,Supplier ID,Quantity,Price,Last Update,Status
+ITEM001,Apple,SUP003,105,0.0,2025-05-30,Normal
+ITEM002,Orange,SUP002,102,0.0,2025-05-30,Normal
+ITEM003,Banana,SUP004,53,0.0,2025-05-30,Normal
+ITEM004,Tomato,SUP008,20,0.0,2025-05-30,Normal
+ITEM005,Cabbage,SUP008,4,0.0,2025-05-30,Low-Stock
